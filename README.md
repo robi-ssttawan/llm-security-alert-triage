@@ -37,5 +37,6 @@ An automated Security Operations Center (SOC) alert triage system powered by LLM
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/robi-ssttawan/llm-security-alert-triage.git
-cd llm-security-alert-triage
+   git clone [https://github.com/robi-ssttawan/llm-security-alert-triage.git](https://github.com/robi-ssttawan/llm-security-alert-triage.git)
+   cd llm-security-alert-triage
+   ```
