@@ -23,7 +23,7 @@ An automated Security Operations Center (SOC) alert triage system powered by LLM
 
 ## 📸 Dashboard Preview
 
-> *Masukkan screenshot dashboard Streamlit kamu di sini untuk tampilan optimal!*
+<img width="937" height="419" alt="image" src="https://github.com/user-attachments/assets/9a376bce-572f-47cf-88c4-5efc117155c9" />
 
 ---
 
